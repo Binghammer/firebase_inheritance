@@ -6,4 +6,7 @@ I created this to demonstrate that traditional polymorphism is not supported in 
 In my opinion, supporting object inheritance is critical. Upgrading from the older firebase to the new setup has really been a struggle because of this regression. 
 
 **Note:** 
-_To run this sample you will need to add a valid `google_services.json`_
+To run this sample you will need: 
+* to add a valid `google_services.json`
+* Java8
+* Latest Android SDK and Android Studio
